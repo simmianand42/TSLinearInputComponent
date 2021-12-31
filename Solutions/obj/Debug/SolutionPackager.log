@@ -1,0 +1,19 @@
+2021-12-31 13:11:59.278 - Info	
+Packing C:\Users\Simmi Anand\Desktop\Webinar\Custom Code\PCF\Solutions\obj\Debug\Metadata to bin\Debug\Solutions.zip
+
+2021-12-31 13:11:59.316 - Info	Processing Component: Entities
+2021-12-31 13:11:59.322 - Info	Processing Component: Roles
+2021-12-31 13:11:59.328 - Info	Processing Component: Workflows
+2021-12-31 13:11:59.329 - Info	Processing Component: FieldSecurityProfiles
+2021-12-31 13:11:59.330 - Info	Processing Component: Templates
+2021-12-31 13:11:59.332 - Info	Processing Component: EntityMaps
+2021-12-31 13:11:59.333 - Info	Processing Component: EntityRelationships
+2021-12-31 13:11:59.345 - Info	Processing Component: OrganizationSettings
+2021-12-31 13:11:59.349 - Info	Processing Component: optionsets
+2021-12-31 13:11:59.351 - Info	Processing Component: CustomControls
+2021-12-31 13:11:59.371 - Info	 - SampleNamespace.TSLinearInputComponent
+2021-12-31 13:11:59.378 - Info	Processing Component: SolutionPluginAssemblies
+2021-12-31 13:11:59.380 - Info	Processing Component: EntityDataProviders
+2021-12-31 13:11:59.454 - Info	
+Unmanaged Pack complete.
+

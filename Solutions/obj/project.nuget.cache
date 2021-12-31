@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0j9UpsS91biTt/n1safUtwKVsH2a3K+Kfg318vRh1qdOqwwyB4/KH/JGMcwoWjf3zoLJeUdsV8W1wb589VYWKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simmi Anand\\Desktop\\Webinar\\Custom Code\\PCF\\Solutions\\Solutions.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simmi Anand\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Simmi Anand\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Simmi Anand\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.10.4\\microsoft.powerapps.msbuild.pcf.1.10.4.nupkg.sha512",
+    "C:\\Users\\Simmi Anand\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.10.4\\microsoft.powerapps.msbuild.solution.1.10.4.nupkg.sha512"
+  ],
+  "logs": []
+}
